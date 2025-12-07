@@ -1,7 +1,4 @@
-docker build -t my-app .
-docker build -f Dockerfile.pnpm -t my-app .
-docker build -f Dockerfile.bun -t my-app .
-docker run -p 3000:3000 my-app
+https://rock-paper-and-scissors-nine.vercel.app/
 
 # Arena Piedra, Papel o Tijera
 
